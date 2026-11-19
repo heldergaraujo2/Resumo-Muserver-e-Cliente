@@ -1,0 +1,12 @@
+# Regras permanentes
+- Reconstrução independente, código próprio, licenças respeitadas e originais preservados somente como referência autorizada. Não publicar binários/assets proprietários sem autorização.
+- Priorizar gameplay funcional, integração e persistência; evitar auditorias e documentação sem entrega real.
+- Agent deve avançar por fases relacionadas consecutivamente, corrigir problemas e registrar checkpoints sem interrupções desnecessárias; respeitar escopo e riscos de perda de dados.
+- Não repetir testes aprovados sem mudança relevante, regressão ou marco. Testes direcionados por alteração; suíte integral em marcos de integração.
+- Cada retorno do Agent deve receber análise de qualidade, riscos, evidências, percentual real de conclusão, delta e método. Não creditar documentação, stubs ou testes isolados como integração comprovada.
+- Classificar informação como confirmada por inspeção, relatada, inferida ou pendente. Não inventar comandos, checkpoints, números ou resultados.
+- Preservar equilíbrio das sete classes; regressões com equipamentos equivalentes após alterações relevantes.
+- Operações/s não equivalem a jogadores simultâneos. Medir sessões, latência, erros e recursos.
+- Separar MuServer/MuClient e sincronizar protocolo e marcos de integração.
+- Após interação técnica relevante, aplicar PROTOCOLO_DE_REGISTRO.md. Confirmar commit antes de declarar salvamento.
+- Repositório público: somente resumos técnicos minimizados; não publicar transcrições privadas, caminhos locais, identificadores de sessão, credenciais ou relatórios internos integrais. Mesmo privado, remover segredos.
