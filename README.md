@@ -15,8 +15,8 @@ Repositório de memória técnica versionada para a reconstrução independente 
 ## Privacidade
 Na criação, em 19/11/2026, este repositório estava público. O registro inicial é uma versão técnica resumida, sem caminhos locais, identificadores privados, credenciais ou transcrições completas. Antes de arquivar relatórios integrais ou detalhes internos, confirme que o repositório está privado e revise o conteúdo para retirar segredos. Não é um backup automático do histórico do ChatGPT e a escrita depende do acesso ao GitHub na interação.
 
-## Estado inicial
-- MuServer: 34,48% reportados, matriz v1.14, 20/58 pontos, sujeito à divergência de 0,25 ponto.
+## Estado mais recente
+- MuServer: 34,05% (19,75/58), matriz corrigida conforme relatório; F12 baseline e 12B incremento 1 sem novo crédito.
 - MuClient: baseline histórico parcial recuperado; percentual atual não confirmado.
 
 Criado em 2026-11-19. O histórico anterior é uma reconstrução parcial baseada no contexto disponível, não uma transcrição integral.

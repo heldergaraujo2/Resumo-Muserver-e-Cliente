@@ -10,7 +10,10 @@
 | Alta | Fase 15 evolução | Classes, Master Skill Tree, progressão e quests |
 | Alta | Fase 16 gameplay avançado | Castle Siege, invasões, bosses, eventos, guildas e alianças |
 | Alta | Fase 17 integração | Sistemas combinados, comparação baseline e regressão de marco |
-| Média | Matriz | Reconciliar diferença de 0,25 com evidência |
+| Resolvida segundo relato | Matriz | Correção 19,75/58; não reaplicar |
 
 ## Lua — requisitos a avaliar
 Execução protegida, quotas configuráveis de memória/tempo/instruções, watchdog/cancelamento, isolamento de falhas, proteção de chamadas nativas, evitar bloqueio do tick, módulos e scripts grandes, agendamento concorrente controlado, hot reload transacional/rollback, logs e stack traces. Avaliar worker/processo isolado; pcall não contém crash nativo. Testar sintaxe inválida, loops infinitos, OOM controlado, recursão, concorrência, arquivos grandes, recuperação. Definir metas quantitativas com baseline, sem prometer limites inventados.
+
+## Prioridade atual
+Concluir 12B incremento 2: quatro perfis, pool, quotas globais, watchdog/quarantine/backoff, timers, API de gameplay validada, hot reload, métricas, soak e evento extremo; 12B.16. F12 otimizar AOI, escrita e login, retestar caudas de latência e soak. Não confundir workers com eventos reais. Depois 13–17.
