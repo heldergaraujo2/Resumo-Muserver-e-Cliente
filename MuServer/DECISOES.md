@@ -7,3 +7,5 @@
 - Não presumir compatibilidade cliente; distinguir relato de inspeção.
 
 - 19/11/2026: substituir referência provisória por 34,05% conforme correção relatada; F12 e 12B sem crédito. Priorizar Lua motor de eventos e quotas globais, AOI/persistência/autenticação limitada, regressões de capacidade comparáveis. 2000 ativos sintéticos não significam capacidade de produção. Meta proposta de gameplay a avaliar: p95 <=100 ms, p99 <=250 ms a 1000 ativos; sem redução da segurança de login.
+
+- Rodada 11: nota 9/10 baseada no relato; manter matriz de 58 itens, indicadores separados para Lua/capacidade/cliente. Fechar 12B.16 com incremento 3 de escopo limitado; refinamentos não bloqueantes no backlog. Priorizar F12 e gameplay 13–17 sem pausas artificiais. Metas de latência propostas, não comprovadas.

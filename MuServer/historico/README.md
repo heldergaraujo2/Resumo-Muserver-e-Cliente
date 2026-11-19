@@ -3,3 +3,5 @@
 Entradas cronológicas imutáveis; correções em nova entrada.
 
 - [2026-11-19-002](2026-11-19-002.md): correção matriz, baseline capacidade, Lua incremento 1, próximos comandos.
+
+- [2026-11-19-003](2026-11-19-003.md): Lua incremento 2, eventos reais, fechamento 12B e retomada de gameplay.
