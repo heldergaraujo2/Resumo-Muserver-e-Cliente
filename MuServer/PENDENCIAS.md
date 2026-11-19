@@ -17,3 +17,6 @@ Execução protegida, quotas configuráveis de memória/tempo/instruções, watc
 
 ## Prioridade atual
 12B incremento 2 entregou perfis, pool, quotas globais, timers, API gameplay, hot reload e métricas. Fechar 12B.16: crash externo, soak >=5 min, multi-instância/sala, CPU/RAM por worker, limite de eventos, GC, evento extremo, autorização e idempotência. F12 AOI, SQLite, autenticação limitada, retestes/soak. Depois 13–17. Investigar fechamento ocioso ~6s quando relevante. Não repetir entregas já aprovadas sem mudança.
+
+## Decisão de capacidade — 19/11/2026
+Usuário autorizou manter 2.000 jogadores ativos simultâneos como meta principal caso 5.000 não sejam viáveis. 5.000 é objetivo opcional, não bloqueia fases 13–17. Priorizar estabilidade, integridade, soak e latência de gameplay. Objetivos de engenharia propostos: p95 <=100 ms e p99 <=250 ms, avaliar em carga alvo; não são resultados comprovados. Baseline de 2.000 sintéticos ainda apresenta p95 1.014 ms e p99,9 15,9 s; não declarar capacidade de produção antes de validar melhorias. Comando anterior já enviado pelo usuário, permanece inalterado; aplicar decisão no próximo retorno. Matriz permanece 19,75/58 = 34,05%.
