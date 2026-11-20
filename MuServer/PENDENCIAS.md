@@ -1,3 +1,7 @@
+# Pendências atuais — MuServer
+Gens/guild-war/arena, combos, quests ramificadas, salas Lua, persistência de fases Siege/invasões, rolls por instância, capacidade 2.000 com SLO/soak, integração cliente, commit do código. Lua 12B.16 fechado segundo relato; F13–17 entregues no escopo relatado, não repetir. 5.000 não obrigatório.
+
+## Histórico anterior (reconciliado acima)
 # Pendências — MuServer
 | Prioridade | Tarefa | Aceitação |
 |---|---|---|
