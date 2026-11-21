@@ -1,3 +1,7 @@
+# Pendências atuais — 21/11/2026
+Primeiro teste real local cliente Season 6.20 ↔ MuServer: inicialização, handshake, login, personagens, Lorencia, movimento, combate, inventário, persistência. Compatibilidade ainda não comprovada. Meta operacional 2.000: SLO de latência não atingido (p95 502,9 ms em 2.000); OPS-04 sem crédito. Revalidar código/commit informado; preservar originais e não exigir PS GameGuard comercial no servidor independente. F18–F24 concluídas segundo relato, sem nova pontuação F21–24.
+
+## Histórico anterior (não representa pendências atuais quando superado)
 # Pendências atuais — MuServer
 Gens/guild-war/arena, combos, quests ramificadas, salas Lua, persistência de fases Siege/invasões, rolls por instância, capacidade 2.000 com SLO/soak, integração cliente, commit do código. Lua 12B.16 fechado segundo relato; F13–17 entregues no escopo relatado, não repetir. 5.000 não obrigatório.
 

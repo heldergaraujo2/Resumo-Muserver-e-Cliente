@@ -9,3 +9,5 @@ Entradas cronológicas imutáveis; correções em nova entrada.
 - [2026-11-19-004](2026-11-19-004.md): decisão de capacidade, 2.000 prioritários, 5.000 opcionais.
 
 - [2026-11-20-001](2026-11-20-001.md): F12–17, matriz v1.18, meta 2.000 e próxima missão.
+
+- [2026-11-21-001](2026-11-21-001.md): encerramento relatado F18–24, 39,22%, 2.000 sintéticos, decisão primeiro teste real local.
